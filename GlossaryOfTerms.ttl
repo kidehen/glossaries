@@ -1572,7 +1572,7 @@ rdf:Property
     schema:name "WebID" ;
     skos:related <http://www.openlinksw.com/schemas/cert#WebID> ;
     schema:description """An HTTP scheme URI used to name an Agent (Person, Organization, Software,
-                      Machine, or anything else capable of mechanized operation), unambiguously."""@en ;
+                      Machine, or anything else capable of mechanized operation) unambiguously."""@en ;
     <http://data.openlinksw.com/oplweb/glossary-term/hashTag#this> "#WebID" ;
     schema:image <https://dvcs.w3.org/hg/WebID/raw-file/tip/spec/img/WebID-overview.png> ;
     owl:differentFrom <http://data.openlinksw.com/oplweb/glossary-term/WebIDTLSProtocol#this> ;
